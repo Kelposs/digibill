@@ -1,6 +1,9 @@
 # final_project
 
-A new Flutter project.
+OCRを利用する会計簿アプリ<br>
+使った技術:<br>
+OCR - Tesseract
+Database - Firebase
 
 ## Getting Started
 
