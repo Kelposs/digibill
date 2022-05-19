@@ -4,6 +4,7 @@ OCRを利用する会計簿アプリ<br>
 使った技術:<br>
 OCR - Tesseract
 Database - Firebase
+Charts - syncfusion
 
 ## Getting Started
 
